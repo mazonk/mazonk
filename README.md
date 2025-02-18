@@ -7,6 +7,7 @@ Welcome to my GitHub! 🚀 I'm a passionate Web Developer & Project Manager, ble
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazonk&show_icons=true&theme=gotham)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mazonk&theme=elegant)
+![Profile Views] (https://komarev.com/ghpvc/?username=mazonk&color=blue&style=flat)
 ![Snake animation](https://github.com/mazonk/mazonk/blob/output/github-contribution-grid-snake.svg)
 
 
