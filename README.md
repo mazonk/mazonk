@@ -6,7 +6,7 @@ Welcome to my GitHub! 🚀 I'm a passionate Web Developer & Project Manager, ble
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,laravel,mysql,postgresql,git,github" alt="Tech stack" />
 
 
-![Snake Animation](https://github.com/mazonk/mazonk/blob/output/github-contribution-grid-snake.svg?timestamp=2024-03-10)
+![Snake Animation](https://github.com/mazonk/mazonk/blob/output/github-contribution-grid-snake-dark.svg?timestamp=2024-03-10)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mazonk&theme=elegant)
 
