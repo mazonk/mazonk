@@ -3,7 +3,7 @@ Welcome to my GitHub! 🚀 I'm a passionate Web Developer & Project Manager, ble
 
 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,php,laravel,mysql,postgresql,git,github" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,ts,tailwind,php,laravel,mysql,postgresql,git,github" alt="Tech stack" />
 
 
 ![Snake Animation](https://github.com/mazonk/mazonk/blob/output/github-contribution-grid-snake-dark.svg??palette=github-dark?timestamp=2024-03-10)
